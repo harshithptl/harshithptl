@@ -1,7 +1,8 @@
 ### Hi, I'm Harshith Patil 👋
 
 **Software Engineer: backend, distributed systems, and low-latency systems.** Boston, MA.
-MS at Northeastern, December 2026. Available full-time from February 2027.
+
+🎓 MS at Northeastern, December 2026. Available full-time from February 2027.
 
 I'm a backend engineer who makes complex data systems reliable. I spent two years at **Gainsight** as the de facto lead on Unification, a master data management platform serving 1,000+ enterprise customers and 60M+ records, then did a fintech co-op at **Hometap** building underwriting and valuation services. Outside work, I build performance-critical systems in Go and C++.
 
@@ -37,11 +38,11 @@ An event-driven trade settlement and double-entry ledger engine: orders come in 
 
 ### Tech
 
-**Languages:** Java, Python, Go, C++ (C++20/23), SQL, TypeScript
-**Backend:** Spring Boot, Django, FastAPI, Flask, gRPC, REST
-**Data and messaging:** PostgreSQL, Kafka, RabbitMQ, Valkey/Redis, MongoDB
-**Infrastructure:** Docker, Kubernetes (Helm, kind), AWS, GCP, Terraform, GitHub Actions
-**Observability:** Prometheus, Grafana, Sumo Logic
+- **Languages:** Java, Python, Go, C++ (C++20/23), SQL, TypeScript
+- **Backend:** Spring Boot, Django, FastAPI, Flask, gRPC, REST
+- **Data and messaging:** PostgreSQL, Kafka, RabbitMQ, Valkey/Redis, MongoDB
+- **Infrastructure:** Docker, Kubernetes (Helm, kind), AWS, GCP, Terraform, GitHub Actions
+- **Observability:** Prometheus, Grafana, Sumo Logic
 
 ---
 
