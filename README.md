@@ -1,9 +1,12 @@
 ### Hi, I'm Harshith Patil 👋
 
-**Software Engineer: backend, distributed systems, and low-latency systems.** Boston, MA.
-MS at Northeastern, December 2026. Available full-time from February 2027.
+**Software Engineer: backend, distributed systems, and low-latency systems.** Based in Boston, MA.
 
-I'm a backend engineer who makes complex data systems reliable. I spent two years at **Gainsight** as the de facto lead on Unification, a master data management platform serving 1,000+ enterprise customers and 60M+ records, then did a fintech co-op at **Hometap** building underwriting and valuation services. Outside work, I build performance-critical systems in Go and C++.
+- 🎓 **MS in Software Engineering Systems**, Northeastern University, December 2026
+- 📅 **Available full-time** from February 2027
+- 💼 **Gainsight (2 years):** de facto lead on Unification, a master data management platform serving 1,000+ enterprise customers and 60M+ records
+- 🏠 **Hometap (co-op):** underwriting and home-equity valuation services in fintech
+- ⚡ **On the side:** performance-critical systems in Go and C++, like Clearline below
 
 ---
 
@@ -37,11 +40,11 @@ An event-driven trade settlement and double-entry ledger engine: orders come in 
 
 ### Tech
 
-**Languages:** Java, Python, Go, C++ (C++20/23), SQL, TypeScript
-**Backend:** Spring Boot, Django, FastAPI, Flask, gRPC, REST
-**Data and messaging:** PostgreSQL, Kafka, RabbitMQ, Valkey/Redis, MongoDB
-**Infrastructure:** Docker, Kubernetes (Helm, kind), AWS, GCP, Terraform, GitHub Actions
-**Observability:** Prometheus, Grafana, Sumo Logic
+- **Languages:** Java, Python, Go, C++ (C++20/23), SQL, TypeScript
+- **Backend:** Spring Boot, Django, FastAPI, Flask, gRPC, REST
+- **Data and messaging:** PostgreSQL, Kafka, RabbitMQ, Valkey/Redis, MongoDB
+- **Infrastructure:** Docker, Kubernetes (Helm, kind), AWS, GCP, Terraform, GitHub Actions
+- **Observability:** Prometheus, Grafana, Sumo Logic
 
 ---
 
